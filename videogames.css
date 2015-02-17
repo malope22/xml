@@ -1,0 +1,26 @@
+/*css for videogames.xml*/
+ps3, nintendo_gamecube, ps2, wii, nintendo64{
+	background-color: #ffffff;
+	width: 100%;
+	display: inline-block;
+	margin-bottom: 5%;
+}
+videogames{
+	font-size: 20px;
+	color: #009933;	
+}
+title{
+	font-size: 18px;
+	color: #FF0000;
+	display: block;
+	margin-top: 2%;
+	padding-left: 3%;
+}
+company, date_created, rating,
+num_players, memory_required, video, memory_card{
+	font-size: 16px;
+	color: #6600FF;
+	display: block;
+	margin-top: 2%;
+	padding-left: 6%;
+}
